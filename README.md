@@ -248,7 +248,7 @@ TWITTER_USERNAME=your_username
 TWITTER_PASSWORD=your_password
 TWITTER_EMAIL=your_email@example.com
 TWITTER_2FA_SECRET=your_2fa_secret  # Optional
-TWITTER_COOKIE_STRING='your_cookie_string'
+TWITTER_COOKIE_STRING='auth_token={insert_your_auth_token_here};ct0={insert_your_ct0_here}'
 ```
 
 ## License
